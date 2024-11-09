@@ -10,17 +10,18 @@ function Hero() {
 
       <div className="relative z-20 flex flex-1 flex-col xl:w-1/2">
         <Image
-          src="/camp.svg"
+          src="/camera.svg"
           alt="camp"
           width={50}
           height={50}
           className="absolute left-[-5px] top-[-30px] w-10 lg:w-[50px]"
         ></Image>
-        <h1 className="bold-52 lg:bold-88">Putuk Truno Camp Area</h1>
+        <h1 className="bold-52 lg:bold-88">Photography Meetup</h1>
         <p className="regular-16 mt-6 text-gray-30 xl:max-w-[520px]">
-          We want to be on each of your journeys seeking the satisfaction of
-          seeing the incorruptable beauty of nature. We can help you on an
-          adventure around the world in just one app.
+          Join us for an inspiring photography meetup where enthusiasts of all
+          skill levels can connect, share tips, and explore new techniques.
+          Bring your camera and creativity, and let's capture stunning moments
+          together in a friendly, collaborative environment!
         </p>
         <div className="my-11 flex flex-wrap gap-5">
           <div className="flex items-center gap-2">
